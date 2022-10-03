@@ -1,7 +1,7 @@
-<h1 align="center">markshust/docker-magento</h1>
+<h1 align="center">ParkYongGyu/magento2.4.2-php7.4-order</h1>
 
 <div align="center">
-  <p>Mark Shust's Docker Configuration for Magento</p>
+  <p>ParkYongGyut's Docker Configuration for Magento</p>
   <img src="https://img.shields.io/badge/magento-2.X-brightgreen.svg?logo=magento&longCache=true" alt="Supported Magento Versions" />
   <a href="https://hub.docker.com/r/markoshust/magento-php/" target="_blank"><img src="https://img.shields.io/docker/pulls/markoshust/magento-php.svg?label=php%20docker%20pulls" alt="Docker Hub Pulls - PHP" /></a>
   <a href="https://hub.docker.com/r/markoshust/magento-nginx/" target="_blank"><img src="https://img.shields.io/docker/pulls/markoshust/magento-nginx.svg?label=nginx%20docker%20pulls" alt="Docker Hub Pulls - Nginx" /></a>
@@ -39,25 +39,17 @@ View Dockerfiles for the latest tags:
 - [markoshust/ssh (Docker Hub)](https://hub.docker.com/r/markoshust/magento-ssh/)
   - [`latest`](https://github.com/markshust/docker-magento/tree/master/images/ssh)
 
-## Free Course
 
-This course is sponsored by <a href="https://m.academy" target="_blank">M.academy</a>, the simplest way to learn Magento.
+The simplest way to setup Magento.
 
-<a href="https://m.academy" target="_blank"><img src="https://raw.githubusercontent.com/markshust/docker-magento/master/docs/macademy-logo.png" alt="M.academy"></a>
 
 A free screencast course is available (which was fully refreshed in December 2021), which details the basic usage of this project:
 
-<a href="https://m.academy/courses/set-up-magento-2-development-environment-docker" target="_blank">
-<img src="https://raw.githubusercontent.com/markshust/docker-magento/master/docs/set-up-magento-2-development-environment-docker-og.png" alt="Set Up a Magento 2 Development Environment with Docker" width="400"><br/>
-Set Up a Magento 2 Development Environment with Docker
-</a>
 
 ### Course Curriculm
 
 #### Intro
 
-- <a href="https://courses.m.academy/courses/set-up-magento-2-development-environment-docker/lectures/36738848" target="_blank">Quick hi & welcome from Mark!</a>
-- <a href="https://courses.m.academy/courses/set-up-magento-2-development-environment-docker/lectures/36738860" target="_blank">About the course format</a>
 
 #### Initial Project Setup
 
