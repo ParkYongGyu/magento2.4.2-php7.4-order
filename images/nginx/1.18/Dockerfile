@@ -1,5 +1,5 @@
 FROM nginx:1.18-alpine
-MAINTAINER Mark Shust <mark@shust.com>
+MAINTAINER Brian Park <gikimiad@gmail.com>
 
 ARG APP_ID=1000
 
