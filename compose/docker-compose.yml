@@ -12,7 +12,7 @@
 ##
 ##add the ip-address 172.24.0.10 
 #wsl -d Ubuntu-20.04 -u root ip addr add 172.27.192.1/24 broadcast 172.27.192.255 dev eth0 label eth0:1
-3netsh interface ip add address "vEthernet (WSL)" 172.27.192.10 255.255.255.0
+#netsh interface ip add address "vEthernet (WSL)" 172.27.192.10 255.255.255.0
 
 
 version: "1"
